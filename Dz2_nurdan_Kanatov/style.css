@@ -1,0 +1,13 @@
+.big {
+    background-color: pink;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    position: relative;
+}.small {
+    position: absolute;
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
